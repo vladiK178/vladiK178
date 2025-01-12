@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/vladiK178.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/vladiK178"><img src="https://tryhackme-badges.s3.amazonaws.com/vladiK178.png" alt="Your Image Badge" />
 
 <!--
 **vladiK178/vladiK178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
